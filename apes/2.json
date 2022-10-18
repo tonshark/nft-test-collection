@@ -1,0 +1,56 @@
+{
+  "id": 3,
+  "name": "Ape #3",
+  "description": "Ton Ape #3 NFT Item",
+  "image": "https://ipfs.io/ipfs/QmPGtpJCgcjy2LvgzVZmnQmr5yLJsqfmYYXFsZkRAofvBN",
+  "attributes": [
+    {
+      "trait_type": "diamond",
+      "value": "ruby_med"
+    },
+    {
+      "trait_type": "accessory_rings",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory_nails",
+      "value": "fuchsia"
+    },
+    {
+      "trait_type": "accessory_hand",
+      "value": "gold"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "ear_right",
+      "value": "none"
+    },
+    {
+      "trait_type": "ear_left",
+      "value": "none"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "open_beast_ahead"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "smile2"
+    },
+    {
+      "trait_type": "dress",
+      "value": "badlon_mustard"
+    },
+    {
+      "trait_type": "body",
+      "value": "coral"
+    },
+    {
+      "trait_type": "background",
+      "value": "coffee"
+    }
+  ]
+}
