@@ -1,0 +1,48 @@
+{
+  "id": 8,
+  "name": "Shark #8",
+  "description": "A unique shark NFT #8 in a collection of 10000 NFTs hosted on the TON Blockchain.",
+  "image": "https://cloudflare-ipfs.com/ipfs/QmNXePj17dxtjBzwLK3PG75wBtTpEDcRb75kcxwCvNNj99",
+  "attributes": [
+    {
+      "trait_type": "glasses",
+      "value": "glasses_tiger"
+    },
+    {
+      "trait_type": "hat",
+      "value": "swim"
+    },
+    {
+      "trait_type": "hand",
+      "value": "candy"
+    },
+    {
+      "trait_type": "clock",
+      "value": "apple_watch"
+    },
+    {
+      "trait_type": "chain",
+      "value": "none"
+    },
+    {
+      "trait_type": "top",
+      "value": "biker_vest"
+    },
+    {
+      "trait_type": "pants",
+      "value": "none"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "open_evil"
+    },
+    {
+      "trait_type": "body",
+      "value": "evil"
+    },
+    {
+      "trait_type": "background",
+      "value": "gradient9"
+    }
+  ]
+}

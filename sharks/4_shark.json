@@ -1,0 +1,48 @@
+{
+  "id": 5,
+  "name": "Shark #5",
+  "description": "A unique shark NFT #5 in a collection of 10000 NFTs hosted on the TON Blockchain.",
+  "image": "https://cloudflare-ipfs.com/ipfs/Qmee9c38Nz78YzxHpJ7XSmkD67WCZNyUXD2drh2LmpGC4K",
+  "attributes": [
+    {
+      "trait_type": "glasses",
+      "value": "glasses_tiger"
+    },
+    {
+      "trait_type": "hat",
+      "value": "baseball"
+    },
+    {
+      "trait_type": "hand",
+      "value": "banana"
+    },
+    {
+      "trait_type": "clock",
+      "value": "apple_watch"
+    },
+    {
+      "trait_type": "chain",
+      "value": "chain_beads_peace"
+    },
+    {
+      "trait_type": "top",
+      "value": "white_tshirt"
+    },
+    {
+      "trait_type": "pants",
+      "value": "none"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "close"
+    },
+    {
+      "trait_type": "body",
+      "value": "smile2"
+    },
+    {
+      "trait_type": "background",
+      "value": "gradient2"
+    }
+  ]
+}
