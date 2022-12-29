@@ -1,8 +1,8 @@
 {
   "id": 1,
   "name": "Shark #1",
-  "description": "A unique shark NFT #1 in a collection of 10000 NFTs hosted on the TON Blockchain.",
-  "image": "https://ipfs.io/ipfs/QmUPgNNCC6SBcHtBjxa5iTM1pDSJ7UY1E6yrWKeaoCCrk6",
+  "description": "A unique shark NFT in a collection of 10000 NFTs hosted on the TON Blockchain.",
+  "image": "http://h213569140.nichost.ru/test/sharks/nft/0_item.png",
   "attributes": [
     {
       "trait_type": "glasses",
