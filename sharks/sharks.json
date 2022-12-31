@@ -1,6 +1,7 @@
 {
   "name": "Ton Sharks",
   "description": "A limited collection of 10000 unique shark NFTs hosted on the TON Blockchain.",
+  "description_ru": "Ограниченная коллекция из 10000 уникальных NFT-акул на блокчейне TON.",
   "image": "http://h213569140.nichost.ru/test/sharks/nft/sharks.png",
   "external_link": "TBD"
 }
