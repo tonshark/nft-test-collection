@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "glasses",
-      "value": "glasses_3dcinema"
+      "value": "glasses_gold"
     },
     {
       "trait_type": "hat",
-      "value": "bike_cap"
+      "value": "none"
     },
     {
       "trait_type": "hand",
-      "value": "hotdog"
+      "value": "flower"
     },
     {
       "trait_type": "clock",
-      "value": "none"
+      "value": "apple_watch"
     },
     {
       "trait_type": "chain",
-      "value": "none"
+      "value": "chain_gold_dead_smile"
     },
     {
       "trait_type": "top",
-      "value": "none"
+      "value": "white_tshirt"
     },
     {
       "trait_type": "pants",
@@ -35,15 +35,15 @@
     },
     {
       "trait_type": "eyes",
-      "value": "open_up"
+      "value": "close"
     },
     {
       "trait_type": "body",
-      "value": "smile5_tongue"
+      "value": "smile4_teeth_round"
     },
     {
       "trait_type": "background",
-      "value": "gradient9"
+      "value": "gradient5"
     }
   ]
 }

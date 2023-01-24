@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "glasses",
-      "value": "glasses_black"
+      "value": "glasses_round_color"
     },
     {
       "trait_type": "hat",
-      "value": "none"
+      "value": "panama"
     },
     {
       "trait_type": "hand",
-      "value": "ice_cream"
+      "value": "hotdog"
     },
     {
       "trait_type": "clock",
-      "value": "gold_watch"
+      "value": "none"
     },
     {
       "trait_type": "chain",
-      "value": "chain_gold_scull"
+      "value": "chain_gold_shark"
     },
     {
       "trait_type": "top",
-      "value": "pink_robe"
+      "value": "none"
     },
     {
       "trait_type": "pants",
@@ -35,7 +35,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "open_wonder2"
+      "value": "close"
     },
     {
       "trait_type": "body",

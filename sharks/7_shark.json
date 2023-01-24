@@ -7,15 +7,15 @@
   "attributes": [
     {
       "trait_type": "glasses",
-      "value": "glasses_tiger"
+      "value": "glasses_3dcinema"
     },
     {
       "trait_type": "hat",
-      "value": "swim"
+      "value": "panama"
     },
     {
       "trait_type": "hand",
-      "value": "candy"
+      "value": "hotdog"
     },
     {
       "trait_type": "clock",
@@ -23,11 +23,11 @@
     },
     {
       "trait_type": "chain",
-      "value": "none"
+      "value": "chain_beads_bullet"
     },
     {
       "trait_type": "top",
-      "value": "biker_vest"
+      "value": "polo"
     },
     {
       "trait_type": "pants",
@@ -35,11 +35,11 @@
     },
     {
       "trait_type": "eyes",
-      "value": "open_evil"
+      "value": "open_up"
     },
     {
       "trait_type": "body",
-      "value": "evil"
+      "value": "sad1"
     },
     {
       "trait_type": "background",

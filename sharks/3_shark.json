@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "glasses",
-      "value": "glasses_mirror"
+      "value": "none"
     },
     {
       "trait_type": "hat",
-      "value": "beanie"
+      "value": "sport_cap"
     },
     {
       "trait_type": "hand",
-      "value": "donatpink"
+      "value": "banana"
     },
     {
       "trait_type": "clock",
-      "value": "gold_watch"
+      "value": "none"
     },
     {
       "trait_type": "chain",
-      "value": "chain_gold_fox"
+      "value": "chain_beads_scull"
     },
     {
       "trait_type": "top",
-      "value": "biker_vest"
+      "value": "basketball_tank"
     },
     {
       "trait_type": "pants",
@@ -35,15 +35,15 @@
     },
     {
       "trait_type": "eyes",
-      "value": "open_wonder1"
+      "value": "open_wonder2"
     },
     {
       "trait_type": "body",
-      "value": "sad2"
+      "value": "smile4_teeth_round"
     },
     {
       "trait_type": "background",
-      "value": "gradient2"
+      "value": "gradient10"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "glasses",
-      "value": "none"
+      "value": "glasses_gold"
     },
     {
       "trait_type": "hat",
@@ -15,35 +15,35 @@
     },
     {
       "trait_type": "hand",
-      "value": "none"
+      "value": "flower"
     },
     {
       "trait_type": "clock",
-      "value": "gold_watch"
+      "value": "none"
     },
     {
       "trait_type": "chain",
-      "value": "none"
+      "value": "chain_gold_boxing_glove"
     },
     {
       "trait_type": "top",
-      "value": "none"
+      "value": "biker_vest"
     },
     {
       "trait_type": "pants",
-      "value": "none"
+      "value": "shorts"
     },
     {
       "trait_type": "eyes",
-      "value": "close"
+      "value": "open_evil"
     },
     {
       "trait_type": "body",
-      "value": "smile2"
+      "value": "smile1"
     },
     {
       "trait_type": "background",
-      "value": "gradient2"
+      "value": "gradient5"
     }
   ]
 }

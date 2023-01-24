@@ -7,23 +7,23 @@
   "attributes": [
     {
       "trait_type": "glasses",
-      "value": "glasses_stars"
+      "value": "glasses_tiger"
     },
     {
       "trait_type": "hat",
-      "value": "swim"
+      "value": "kangol_cap"
     },
     {
       "trait_type": "hand",
-      "value": "hotdog"
+      "value": "chicken"
     },
     {
       "trait_type": "clock",
-      "value": "gold_watch"
+      "value": "apple_watch"
     },
     {
       "trait_type": "chain",
-      "value": "chain_gold_boxing_glove"
+      "value": "chain_beads_dead_smile"
     },
     {
       "trait_type": "top",
@@ -35,7 +35,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "open_wonder1"
+      "value": "open_evil"
     },
     {
       "trait_type": "body",
@@ -43,7 +43,7 @@
     },
     {
       "trait_type": "background",
-      "value": "gradient2"
+      "value": "gradient4"
     }
   ]
 }

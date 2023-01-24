@@ -1,21 +1,21 @@
 {
-  "id": 6,
-  "name": "Shark #6",
+  "id": 15,
+  "name": "Shark #15",
   "description": "A unique shark NFT in a collection of 10000 NFTs hosted on the TON Blockchain.",
   "description_ru": "Уникальная NFT-акула из коллекции 10000 NFT на блокчейне TON.",
-  "image": "http://h213569140.nichost.ru/test/sharks/nft/5_item.png",
+  "image": "http://h213569140.nichost.ru/test/sharks/nft/14_item.png",
   "attributes": [
     {
       "trait_type": "glasses",
-      "value": "glasses_round_black"
+      "value": "glasses_beach_sport"
     },
     {
       "trait_type": "hat",
-      "value": "none"
+      "value": "fedora_beach"
     },
     {
       "trait_type": "hand",
-      "value": "candy"
+      "value": "none"
     },
     {
       "trait_type": "clock",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "top",
-      "value": "pink_robe"
+      "value": "leather_jacket"
     },
     {
       "trait_type": "pants",
@@ -35,15 +35,15 @@
     },
     {
       "trait_type": "eyes",
-      "value": "open"
+      "value": "open_wonder2"
     },
     {
       "trait_type": "body",
-      "value": "smile6_gum"
+      "value": "smile2"
     },
     {
       "trait_type": "background",
-      "value": "gradient6"
+      "value": "gradient8"
     }
   ]
 }

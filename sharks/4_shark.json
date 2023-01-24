@@ -7,15 +7,15 @@
   "attributes": [
     {
       "trait_type": "glasses",
-      "value": "glasses_tiger"
+      "value": "glasses_black"
     },
     {
       "trait_type": "hat",
-      "value": "baseball"
+      "value": "swim"
     },
     {
       "trait_type": "hand",
-      "value": "banana"
+      "value": "none"
     },
     {
       "trait_type": "clock",
@@ -23,11 +23,11 @@
     },
     {
       "trait_type": "chain",
-      "value": "chain_beads_peace"
+      "value": "none"
     },
     {
       "trait_type": "top",
-      "value": "white_tshirt"
+      "value": "sweetshirt"
     },
     {
       "trait_type": "pants",
@@ -39,11 +39,11 @@
     },
     {
       "trait_type": "body",
-      "value": "smile2"
+      "value": "smile1"
     },
     {
       "trait_type": "background",
-      "value": "gradient2"
+      "value": "gradient1"
     }
   ]
 }
