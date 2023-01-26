@@ -3,7 +3,7 @@
   "name": "Shark #5",
   "description": "A unique shark NFT in a collection of 10000 NFTs hosted on the TON Blockchain.",
   "description_ru": "Уникальная NFT-акула из коллекции 10000 NFT на блокчейне TON.",
-  "image": "http://h213569140.nichost.ru/test/sharks/nft/4_shark.png",
+  "image": "https://coolshark.club/test/sharks/nft/4_shark.png",
   "attributes": [
     {
       "trait_type": "glasses",
